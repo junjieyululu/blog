@@ -1,3 +1,4 @@
-theme: jekyll-TeXt-theme
+#theme: jekyll-TeXt-theme
 
-#remote_theme: benbalter/retlab
+remote_theme: kitian616/jekyll-TeXt-theme
+
