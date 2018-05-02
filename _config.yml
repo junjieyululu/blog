@@ -1,4 +1,4 @@
-theme: minima
+#theme: minima
 
-#remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: kitian616 / jekyll-TeXt-theme 
 
